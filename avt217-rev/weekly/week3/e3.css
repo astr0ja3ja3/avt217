@@ -1,0 +1,42 @@
+@charset "UTF-8";
+/* CSS Document */
+
+body {
+	background-color: #abdbe3;
+	margin-left:10%;
+	margin-right:5%;
+	font-family:Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, "sans-serif";
+	
+}
+
+header { 
+	background-color:blue;
+	padding-bottom: 20px;
+
+}
+
+nav {
+	color:aliceblue
+}
+
+ul {
+	margin-left: 0;
+
+}
+
+li{
+	list-style-type: none;
+	display:inline;
+	
+}
+
+.posttime {
+	color:darkred;
+	font-size: 0.7em;
+	
+}	
+
+h2, p {
+	color:darkblue;
+	
+}
