@@ -1,0 +1,64 @@
+@charset "utf-8";
+/* CSS Document */
+	
+body {
+  font-family: cofo-raffine, sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 1000;
+  font-style: bold;
+	line-height:1.6em;
+	background-color: beige
+			
+}
+
+#wrapper {
+	margin-left:5%;
+	background-color:cornsilk;
+	float:left;
+	
+}
+
+h1 { font-family: cofo-raffine, sans-serif;
+
+}
+
+a:link {
+	color:darkgreen;
+	text-decoration:none;
+
+}
+
+a:visited {
+	color: deeppink;
+
+}
+
+a:hover {
+	color:mediumpurple;
+	text-decoration: underline;
+	
+}
+
+a:active {
+	color: cornflowerblue;
+	
+}
+
+.weekly {
+	width:45%;
+	float:left;
+	margin:0 5%;
+}
+
+#project {
+	width:45%;
+	float:left;
+
+}
+
+.demo {
+	font-weight: 100;
+	font-style: italic;
+	color:brown;
+	
+}
