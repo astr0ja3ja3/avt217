@@ -1,0 +1,47 @@
+@charset "utf-8";
+/* CSS Document */
+
+.container {
+	width:80%;
+	margin:0 auto;
+}
+
+img {
+	width:100%;
+	height:auto;
+}
+
+.box1{
+	position: absolute;
+	bottom: 55px;
+	right:16px;
+	background-color:cornflowerblue;
+	padding:10px 20px;
+}
+
+.box2{
+	position:fixed;
+	top:2px;
+	left:16px;
+	background-color:aquamarine;
+	padding:10px 20px;
+}
+
+.box3{
+	position:relative;
+	middle:2px;
+	background-color:coral;
+	padding:10px 20px;
+}
+
+.insidebox1{
+	background-color:beige;
+}
+
+.insidebox2{
+	background-color:burlywood;
+}
+
+.insidebox3{
+	background-color: darkkhaki;
+}
