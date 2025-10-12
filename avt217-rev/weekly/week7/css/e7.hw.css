@@ -1,0 +1,39 @@
+@charset "utf-8";
+/* CSS Document */
+
+
+.top-bar {
+  background-color: #D57878; /* muted red-pink */
+  height: 100px;
+  width: 100%;
+  align-items: center;
+  column-gap: normal
+	
+}
+
+.divider {
+  background-color: #B88B6A; /* brown strip */
+  height: 20px;
+  width: 100%;
+  
+}
+
+.content {
+  display: flex;
+  justify-content: space-around;
+  padding: 40px 0;
+  background-color: white;
+}
+
+.block {
+  background-color: #CEB2A1; /* light beige */
+  width: 23%;
+  height: 600px;
+  align-items: left;
+}
+
+.footer {
+  background-color: #743939; /* dark maroon */
+  height: 60px;
+  width: 100%;
+}
