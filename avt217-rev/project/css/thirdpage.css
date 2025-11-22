@@ -1,0 +1,349 @@
+@charset "utf-8";
+/* CSS Document */
+
+.row {
+	
+  display: grid;
+  grid-template-columns: auto auto auto;
+  padding: 5px;
+	
+}
+
+.row div {
+	
+  background-color: #99EA56;
+  border: 0.5px solid #A9F36B;
+  padding: 5px;
+  font-size: 15px;
+  text-align: center;
+	
+}
+		
+h4 {
+	
+	color: #56862E;
+	
+}
+		
+.header {
+	
+  padding: 30px;
+  text-align: center;
+  background: #6A85FF;
+  color: #093E99;
+  font-size: 20px;
+	
+}
+		
+.topnote {
+	
+  text-align: left;
+  background: #A7CDFF;
+  color: #559EFF;
+  font-size: 5px;
+  border: 4px solid #C6DEFF;
+  margin-bottom: 5px;
+	
+}
+
+.smallred{
+	
+	background: #FC6262;
+	padding: 5px;
+	
+}
+		
+.redbackground {
+	
+	background: #FC6262;
+	padding-bottom: 30px;
+	
+}
+		
+.yellowbackground1 {
+			
+	background: #FFDE49;
+	text-align: center;
+	margin: auto;
+    width: 50%;
+	padding: 20px;
+	
+}
+		
+.yellowbackground2 {
+				
+	background: #FFDE49;
+	margin: auto;
+    width: 50%;
+	padding: 20px;
+	
+}
+		
+.captionheader {
+			
+	
+	
+}
+		
+h3{
+	
+   text-align: left;
+   background: #A7CDFF;
+   color: #559EFF;
+   font-size: 7px;
+	
+}
+
+h2{
+	
+	text-align: left;
+	
+}
+
+.box {
+	
+      width: 500px; /* Width of the box */
+      height: 30px; /* Height of the box */
+      background-color: #A7CDFF; /* Background color */
+	  text-align: right;
+  
+}
+
+h5 {
+	
+   text-align: left;
+   color: #929292;
+   font-size: 5px;
+	
+}
+
+h1 {
+	
+   text-align: center;
+   background-color: #99EA56;
+   color: #56862E;
+   padding: 15px;
+   font-size: 40px;
+   
+}
+
+.footer {
+	
+  display: grid;
+  grid-template-columns: auto auto auto;
+  padding: 1px;
+	
+}
+
+.footer div{
+	
+  background-color: #6A85FF;
+  border: .1px solid #597DBD;
+  padding: 1px;
+  font-size: 15px;
+  text-align: center;
+  padding-top: 10px;
+
+}
+
+h6{
+	
+   text-align: center;
+   background-color: #6A85FF;
+   color: #093E99;
+   padding: 15px;
+
+}
+
+h7{
+	
+   text-align: center;
+   background-color: #FFDE49;
+   color: #BD7B00;
+   font-size: 30px;
+   display: block;
+   font-weight: bold;
+
+}
+
+h8{
+	
+   text-align: center;
+   color: #FFFFFF;
+   font-size: 20px;
+   display: block;
+   font-weight: 650;
+   padding-bottom: 10px;
+
+}
+
+h9{
+	
+   text-align: center;
+   color: #000000;
+   font-size: 20px;
+   display: block;
+   font-weight: 750;
+   padding-bottom: 10px;
+	
+}
+
+h10{
+   
+   padding: 10px;
+   border: 4px solid #CDFFD5;
+   background: #ABFFB8;;
+   text-align: center;
+   color: #FFFFFF;
+   font-size: 20px;
+   font-weight: 750;
+   line-height: 50px;
+
+}
+
+.filtercolumn{
+	
+  display: grid;
+  grid-template-columns: auto auto auto;
+  padding: 5px;
+	
+}
+
+.filtercolumn div{
+	
+  background-color: #FFDE49;
+  border: 4px solid #FFF0AD;
+  padding: 5px;
+  font-size: 15px;
+  text-align: center;
+	
+}
+
+h11{
+	
+	color: #BD7B00;
+	background-color: #FFDE49;
+		
+}
+
+.imgrow {
+	
+	padding-top: 20px;
+    width: 50%;
+  display: flex;
+      gap: 10px;
+	
+}
+
+.imgrow img {
+	
+	 width: 200px; /* Adjust image size */
+      height: auto;
+	
+}
+
+.imgrow2 {
+	
+	padding-top: 20px;
+    width: 50%;
+  display: flex;
+      gap: 30px;
+	
+}
+
+.imgrow2 img {
+	
+	 width: 200px; /* Adjust image size */
+      height: auto;
+	
+}
+
+.imgrow3 {
+	
+	padding-top: 20px;
+    width: 50%;
+  display: flex;
+      gap: 10px;
+	
+}
+
+.imgrow3 img{
+
+      width: 200px; /* Adjust image size */
+      height: auto;
+
+}
+
+.imgrow4 {
+	
+	padding-top: 20px;
+  display: flex;
+      gap: 10px;
+	
+}
+
+.imgrow4 img{
+
+      height: auto;
+
+}
+
+.imgrow5 {
+	
+	padding-top: 20px;
+  display: flex;
+      gap: 10px;
+	
+}
+
+.imgrow5 img{
+
+      height: auto;
+
+}
+
+.imgrow6 {
+	
+	padding-top: 20px;
+  display: flex;
+      gap: 10px;
+	
+}
+
+.imgrow6 img{
+
+      height: auto;
+
+}
+
+.imgrow7 {
+	
+	padding-top: 20px;
+  display: flex;
+      gap: 10px;
+	
+}
+
+.imgrow7 img{
+
+      height: auto;
+
+}
+
+img{
+	
+	max-width: 100%;
+	
+}
+
+a:link {
+	
+color: #FFFFFF;
+	
+}
+
+a:visited {
+	
+color: #FFFFFF;
+	
+}
